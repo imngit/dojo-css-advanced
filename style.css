@@ -1,0 +1,65 @@
+/*general elements*/
+
+body {
+	width: 1020px;
+
+}
+
+/*header area*/
+
+#header {
+		vertical-align: top;
+		display: inline-block;
+		background-color: purple;
+}
+
+}
+
+	#header img{
+
+	}
+
+	#header p{
+
+	}
+
+.navcass {
+	vertical-align: top;
+	display: inline-block;
+	background-color: gray;
+}
+
+}
+
+
+Box Style
+
+.box {
+	vertical-align: top;
+	display: inline-block;
+}
+
+
+/*hero section*/
+
+#hero-area {
+
+}
+
+	#hero-area h2 {
+
+	}
+
+	#hero-area h3{
+
+	}
+
+	#hero-area p{
+
+	}
+
+/*Ticker Section*/
+
+.ticker {
+
+}
